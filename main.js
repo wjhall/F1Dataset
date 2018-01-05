@@ -69,3 +69,4 @@ for (index in circuit_urlList){
 		}
 	})
 }
+ //output from circuitJSON is saved as cirucits JSON (manually)
